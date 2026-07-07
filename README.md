@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech%20Computer%20Science-Student-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A" alt="degree" />
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20@%20VIT%20Vellore-%F0%9F%93%8D%20Tamil%20Nadu%2C%20India-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A" alt="B.Tech CSE @ VIT Vellore" />
 <img src="https://img.shields.io/badge/Learning-Java%20%7C%20Python%20%7C%20Web%20Development-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="learning" />
 
 <br/><br/>
