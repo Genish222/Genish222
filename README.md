@@ -24,8 +24,7 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Genish222&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Genish222?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&logoColor=000000&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Genish222?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&logoColor=000000&label=Stars" alt="Stars"/>
+<img src="https://img.shields.io/github/followers/Genish222?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers"/>
 
 </div>
 
@@ -61,37 +60,32 @@
 
 ## 💻 Tech Stack
 
+
 <div align="center">
 
-### Languages
+**[ Languages ]**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="languages"/>
 
-<br>
+**[ Frontend & Backend ]**
 
-### Frontend & Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" alt="frontend-backend"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
+**[ Databases ]**
 
-<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="databases"/>
 
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-<br>
-
-### AI / Machine Learning
+**[ AI / Machine Learning ]**
 
 <img src="https://skillicons.dev/icons?i=pytorch"/>
 
-<br>
+**[ Cloud & Tools ]**
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux&theme=dark" alt="tools"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -134,10 +128,10 @@
 
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Genish222&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⭐ Thanks for visiting my profile!
+
+</div>
