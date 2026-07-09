@@ -44,19 +44,15 @@
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy solving coding challenges and turning ideas into real-world projects. -->
 
-## 🌐 Socials:
-
-
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="mailto:genish.chy2058@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 <a href="https://linkedin.com/in/genish-c">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://github.com/Genish222">
-<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
 
@@ -99,7 +95,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 
 ### 🛠️ Tools
@@ -108,7 +103,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
 
 </div>
 
@@ -129,7 +124,6 @@
 
 </div>
 
-##
 
 <!-- Snake Game Repo View -->
 
