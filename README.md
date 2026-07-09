@@ -59,7 +59,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -79,6 +79,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -103,6 +104,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 
 </div>
@@ -120,7 +122,9 @@
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Genish222&theme=github_dark&utcOffset=5.75"/>
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Genish222&theme=github_dark"/>
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Genish222&theme=github_dark"/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Genish222&theme=github-dark&hide_border=true&radius=16"/>
+
+<img width="90%" height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Genish222&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph"/>
+
 
 </div>
 
