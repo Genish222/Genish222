@@ -1,25 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20GENISH%20CHAUDHARY&fontSize=38&fontAlignY=40&desc=Computer%20Science%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Open%20Source%20Learner&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20GENISH%20CHAUDHARY&fontSize=38&fontAlignY=40&desc=Computer%20Science%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Open%20Source%20Learner&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner"/>
 
 <a href="https://github.com/Genish222">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Computer+Science+Student;%24+currently+learning+%E2%86%92+Java+%7C+Python+%7C+Web+Development;%24+interests+%E2%86%92+Software+Development+%7C+Open+Source;%24+building+%E2%86%92+Projects+%26+GitHub+Portfolio;%24+goal+%E2%86%92+Become+a+Skilled+Software+Engineer" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Computer+Science+Student;%24+currently+learning+%E2%86%92+Java+%7C+Python+%7C+Web+Development;%24+interests+%E2%86%92+Software+Development+%7C+Open+Source;%24+building+%E2%86%92+Projects+%26+GitHub+Portfolio;%24+goal+%E2%86%92+Become+a+Skilled+Software+Engineer" alt="typing"/>
 </a>
 
-<br/>
+<br>
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE%20@%20VIT%20Vellore-%F0%9F%93%8D%20Tamil%20Nadu%2C%20India-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A" alt="B.Tech CSE @ VIT Vellore" />
-<img src="https://img.shields.io/badge/Learning-Java%20%7C%20Python%20%7C%20Web%20Development-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="learning" />
+<img src="https://img.shields.io/badge/B.Tech%20CSE%20@%20VIT%20Vellore-%F0%9F%93%8D%20Tamil%20Nadu%2C%20India-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A" alt="B.Tech CSE @ VIT Vellore"/>
+<img src="https://img.shields.io/badge/Learning-Java%20%7C%20Python%20%7C%20Web%20Development-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="Learning"/>
 
-<br/><br/>
+<br><br>
 
 <a href="mailto:genish.chy2058@gmail.com">
-<img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" />
+<img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="Email"/>
 </a>
 
 <a href="https://github.com/Genish222">
-<img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" />
+<img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="GitHub"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Genish222&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Genish222?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&logoColor=000000&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Genish222?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&logoColor=000000&label=Stars" alt="Stars"/>
 
 </div>
 
@@ -39,19 +45,101 @@
 - ⚡ **Fun fact:** I enjoy solving coding challenges and turning ideas into real-world projects. -->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/genish-c) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:genish.chy2058@gmail.com) 
+
+
+
+<p align="center">
+<a href="mailto:genish.chy2058@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+<a href="https://linkedin.com/in/genish-c">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://github.com/Genish222">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat-square&logo=Ubisoft&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat-square&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white)
+## 💻 Tech Stack:
+
+<div align="center">
+
+### 💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=FFDD54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+### 🌐 Frontend & Backend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### ☁️ Cloud & Big Data
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+</div>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Genish222&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Genish222&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Genish222&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+
+
+<div align="center">
+
+
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Genish222&theme=github-dark&hide_border=true"/>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Genish222&theme=github_dark"/>
+
+
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Genish222&theme=github_dark"/>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Genish222&theme=github_dark&utcOffset=5.75"/>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Genish222&theme=github_dark"/>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Genish222&theme=github_dark"/>
+
+
+
+</div>
+
+##
 
 <!-- Snake Game Repo View -->
 
