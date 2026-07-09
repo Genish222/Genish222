@@ -114,28 +114,18 @@
 
 ---
 
-## 📊 GitHub Stats:
-
+## 📊 GitHub Stats
 
 <div align="center">
 
-
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Genish222&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Genish222&theme=github-dark&hide_border=true"/>
-
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Genish222&theme=github_dark"/>
-
-
-
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Genish222&theme=github_dark"/>
-
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Genish222&theme=github_dark&utcOffset=5.75"/>
-
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Genish222&theme=github_dark"/>
-
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Genish222&theme=github_dark"/>
-
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Genish222&theme=github-dark&hide_border=true&radius=16"/>
 
 </div>
 
@@ -148,10 +138,20 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Genish222&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Genish222&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
+
+</div>
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500"/>
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Genish222&limit=5&theme=dark&combine_all_yearly_contributions=true)
