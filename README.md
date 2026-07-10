@@ -28,7 +28,6 @@
 
 </div>
 
----
 
 <!--# 💫 Hi 👋, I'm Genish 
 
@@ -43,17 +42,7 @@
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I enjoy solving coding challenges and turning ideas into real-world projects. -->
 
-## 🌐 Connect With Me
 
-<p align="center">
-<a href="mailto:genish.chy2058@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/genish-c">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-</p>
 
 
 ---
@@ -103,8 +92,9 @@
 
 ## 📊 Activity Graph
 
+<div align="center">
 <img width="90%" height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Genish222&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph"/>
-
+</div>
 
 
 ## 🐍 Contribution Activity Graph
@@ -122,6 +112,20 @@
 ![](https://github-profile-trophy.vercel.app/?username=Genish222&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
 
 </div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:genish.chy2058@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/genish-c">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
 
 ## ✍️ Random Dev Quote
 
