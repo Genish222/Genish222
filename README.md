@@ -99,12 +99,15 @@
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Genish222&theme=github_dark&utcOffset=5.75"/>
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Genish222&theme=github_dark"/>
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Genish222&theme=github_dark"/>
+</div>
+
+## 📊 Activity Graph
 
 <img width="90%" height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Genish222&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph"/>
 
 
-</div>
 
+## 🐍 Contribution Activity Graph
 
 <!-- Snake Game Repo View -->
 
