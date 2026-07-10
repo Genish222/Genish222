@@ -118,17 +118,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:genish.chy2058@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
 
-  <a href="https://linkedin.com/in/genish-c">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
+<a href="mailto:genish.chy2058@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+</a>
 
-  <a href="https://leetcode.com/u/Genis222/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" height="48" alt="LeetCode"/>
-  </a>
+<a href="https://linkedin.com/in/genish-c">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Genish222">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
+
+<a href="https://leetcode.com/u/Genis222/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" height="48" alt="LeetCode"/>
+</a>
+
 </p>
 
 ---
