@@ -109,7 +109,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Genish222&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Genish222&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
