@@ -14,11 +14,11 @@
 <br><br>
 
 <a href="mailto:genish.chy2058@gmail.com">
-<img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=060D08" alt="Email"/>
 </a>
 
 <a href="https://github.com/Genish222">
-<img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=060D08" alt="GitHub"/>
 </a>
 
 <br><br>
