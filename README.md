@@ -105,15 +105,40 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=Genish222&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
+-->
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🫁 Lung Cancer Classification
+Deep learning-based lung cancer classification using **EfficientNet-B0** and **Hybrid Metaheuristic Optimization**. Published at **IEEE ICFACT 2026**.
+
+<a href="https://github.com/Genish222/Lung-Cancer-Classification">
+<img src="https://img.shields.io/badge/View%20Project-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08"/>
+</a>
+
+<br><br>
+
+### 💼 MERN Job Portal
+A full-stack job portal featuring authentication, job posting, application management, and a responsive UI.
+
+<a href="https://github.com/Genish222/MERN-Job-Portal">
+<img src="https://img.shields.io/badge/View%20Project-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08"/>
+</a>
+
+</div>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
