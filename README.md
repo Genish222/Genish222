@@ -114,7 +114,6 @@
 </div>
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -133,6 +132,10 @@
 
 <a href="https://leetcode.com/u/Genis222/">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" height="48" alt="LeetCode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/genish_chy2058">
+<img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="48" height="48" alt="HackerRank"/>
 </a>
 
 </p>
