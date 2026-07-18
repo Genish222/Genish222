@@ -1,3 +1,16 @@
+<!-- Header -->
+<!--
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GENISH%20CHAUDHARY&fontAlign=50&fontAlignY=40&color=0:0f2027,30:203a43,60:2c5364,100:00F7FF&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=AI%20|%20Machine%20Learning%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+</p>
+-->
+
+<!-- <!-- Typing Animation 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Genish+Chaudhary;💻+AI+%7C+Machine+Learning+Engineer;🚀+Full+Stack+Developer;🔥+Always+Learning+New+Things"/>
+</p>
+-->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20GENISH%20CHAUDHARY&fontSize=38&fontAlignY=40&desc=Computer%20Science%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Open%20Source%20Learner&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner"/>
