@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,15 +21,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Make Snake Orange
-        run: |
-          sed -i 's/#39d353/#ff6a00/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#26a641/#ff8c00/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#006d32/#ff4500/g' dist/github-contribution-grid-snake-dark.svg
-
-      - name: Deploy to Output Branch
+      - name: Deploy Snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+          force_orphan: true
