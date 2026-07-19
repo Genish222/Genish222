@@ -97,8 +97,6 @@
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Genish222&theme=github-dark&hide_border=true"/>
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Genish222&theme=github_dark"/>
-</div>
-<div align="center">
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Genish222&theme=github_dark"/>
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Genish222&theme=github_dark"/>
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Genish222&theme=github_dark"/>
