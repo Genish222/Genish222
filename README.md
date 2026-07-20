@@ -88,6 +88,16 @@
 </div>
 
 <br/>
+<div align="center">
+
+**[ GenAI ]**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyPDF-CC0000?style=for-the-badge"/>
+
+</div>
 
 ---
 
