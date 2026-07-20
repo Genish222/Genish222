@@ -187,7 +187,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="800"/>
 
 </div>
 
