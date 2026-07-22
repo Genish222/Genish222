@@ -140,6 +140,19 @@
 
 ---
 
+<div align="center">
+
+<a href="https://github.com/Genish222?tab=repositories">
+  <img
+    src="https://custom-icon-badges.demolab.com/badge/-Explore%20My%20Repositories-0A0F08?style=for-the-badge&logo=repo&logoColor=CAFF3C"
+    alt="Explore My Repositories"
+    height="40"/>
+</a>
+
+</div>
+
+---
+
 ## 🚀 Technical Interests
 
 <div align="center">
@@ -198,8 +211,9 @@
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGV4NWt5dngxamhoNTg5bDRlbndkMzF6NHNwdThhcWJjMmVqd3pleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AW6eOaOemvDv1FBpZ6/giphy.gif" width="150" />
-</p>
-
+</p> -->
 </div>
+
+
