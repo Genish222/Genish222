@@ -122,6 +122,7 @@
 </div>
 
 
+
 ## 🐍 Contribution Activity Graph
 
 <!-- Snake Game Repo View -->
@@ -132,6 +133,7 @@
 
 <br>
 
+<!--
 <div align="center">
   <a href="https://github.com/Genish222?tab=repositories">
     <img
@@ -140,7 +142,7 @@
       height="40"/>
   </a>
 </div>
-
+-->
 
 
 ## 🚀 Technical Interests
@@ -156,7 +158,6 @@
 🚀 **Open Source**
 
 </div>
-
 
 ---
 
