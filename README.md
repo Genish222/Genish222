@@ -196,5 +196,8 @@
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGV4NWt5dngxamhoNTg5bDRlbndkMzF6NHNwdThhcWJjMmVqd3pleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AW6eOaOemvDv1FBpZ6/giphy.gif" width="150" />
+</p>
 
 </div>
