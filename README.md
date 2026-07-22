@@ -36,8 +36,10 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Genish222&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Genish222?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Genish222&style=flat-square&color=8B949E&labelColor=21262D&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Genish222?style=flat-square&color=8B949E&labelColor=21262D&logo=github&label=Followers"/>
+
+<!--<img src="https://img.shields.io/github/followers/Genish222?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers"/> -->
 
 </div>
 
