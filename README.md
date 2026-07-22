@@ -129,23 +129,15 @@
   <img src="https://raw.githubusercontent.com/Genish222/Genish222/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
-<!-- ## 🏆 GitHub Trophies
+<br>
 
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Genish222&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
--->
-
-
-<div align="center">
-<a href="https://github.com/Genish222?tab=repositories">
-  <img
-    src="https://custom-icon-badges.demolab.com/badge/-Explore%20My%20Repositories-0A0F08?style=for-the-badge&logo=repo&logoColor=CAFF3C"
-    alt="Explore My Repositories"
-    height="40"/>
-</a>
+  <a href="https://github.com/Genish222?tab=repositories">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/-Explore%20My%20Repositories-0A0F08?style=for-the-badge&logo=repo&logoColor=CAFF3C"
+      alt="Explore My Repositories"
+      height="40"/>
+  </a>
 </div>
 
 
