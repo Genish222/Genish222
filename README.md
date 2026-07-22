@@ -101,7 +101,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -138,20 +138,17 @@
 </div>
 -->
 
----
 
 <div align="center">
-
 <a href="https://github.com/Genish222?tab=repositories">
   <img
     src="https://custom-icon-badges.demolab.com/badge/-Explore%20My%20Repositories-0A0F08?style=for-the-badge&logo=repo&logoColor=CAFF3C"
     alt="Explore My Repositories"
     height="40"/>
 </a>
-
 </div>
 
----
+
 
 ## 🚀 Technical Interests
 
