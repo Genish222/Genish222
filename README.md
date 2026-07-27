@@ -131,15 +131,16 @@
 <br>
 
 <!--
-<div align="center">
-  <a href="https://github.com/Genish222?tab=repositories">
-    <img
-      src="https://custom-icon-badges.demolab.com/badge/-Explore%20My%20Repositories-0A0F08?style=for-the-badge&logo=repo&logoColor=CAFF3C"
-      alt="Explore My Repositories"
-      height="40"/>
-  </a>
-</div>
 -->
+
+
+<!-- pacman code repo -->
+## ⭐ My Contribution Playground
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Genish222/Genish222/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+</div>
+
+<br>
 
 
 ## 🚀 Technical Interests
