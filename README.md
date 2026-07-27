@@ -137,7 +137,7 @@
 
 <!-- pacman code repo -->
 
-## ⭐ My Contribution Playground
+## 👾 My Contribution Playground
 <div align="center">
   <img src="https://raw.githubusercontent.com/Genish222/Genish222/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
 </div>
