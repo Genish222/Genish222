@@ -58,7 +58,7 @@
 - ⚡ **Fun fact:** I enjoy solving coding challenges and turning ideas into real-world projects. -->
 
 ---
- 
+
 ## 💻 Tech Stack
 
 
@@ -136,7 +136,6 @@
 -->
 
 <!-- pacman code repo -->
-
 ## 👾 My Contribution Playground
 <div align="center">
   <img src="https://raw.githubusercontent.com/Genish222/Genish222/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
